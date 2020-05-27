@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 from googlegeocoder import GoogleGeocoder
-geocoder = GoogleGeocoder("AIzaSyAhhWzdBeS-eG33_mU_S4qjFzIbVW83Mrc")
+geocoder = GoogleGeocoder("")
 
 #Define key variables with their weighted values
 fml = 0.2
